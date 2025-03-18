@@ -22,7 +22,7 @@ LoginPage est une application Angular qui permet aux utilisateurs de se connecte
 
    ```bash
    git clone https://github.com/denilzalopes/login-page-move-it.git
-   cd login-page
+   cd login-page-move-it
 
 2. Installez les dépendances :
 
